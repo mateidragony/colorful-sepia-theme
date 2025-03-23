@@ -792,7 +792,7 @@
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
-		  "fontStyle": "normal",
+		  "fontStyle": "",
 		  "foreground": "#7522d3"
 		}
 	  },
@@ -800,7 +800,7 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "fontStyle": "normal",
+		  "fontStyle": "",
 		  "foreground": "#b06742"
 		}
 	  },
@@ -1940,8 +1940,8 @@
 	  "editor.lineHighlightBorder": "#eeeeee00",
 	  "editorLineNumber.activeForeground": "#2c2521",
 	  "editorLink.activeForeground": "#099e99",
-	  "editorIndentGuide.background": "#cbaa8e9b",
-	  "editorIndentGuide.activeBackground": "#cbaa8e",
+	  "editorIndentGuide.background1": "#cbaa8e9b",
+	  "editorIndentGuide.activeBackground1": "#cbaa8e",
 	  "editorRuler.foreground": "#FFFFFF14",
 	  "editorBracketMatch.background": "#0064001a",
 	  "editorBracketMatch.border": "#b9b9b9",
@@ -2043,12 +2043,12 @@
 	  "editorMarkerNavigationError.background": "#e51400",
 	  "editorMarkerNavigationWarning.background": "#e9a700",
 	  "editorMarkerNavigationInfo.background": "#75beff",
-	  "merge.currentHeaderBackground": "#A4E3D6",
-	  "merge.currentContentBackground": "#DBF4EF",
-	  "merge.incomingHeaderBackground": "#A6CFFF",
-	  "merge.incomingContentBackground": "#DBECFF",
-	  "merge.commonHeaderBackground": "#BFBFBF",
-	  "merge.commonContentBackground": "#E5E5E5",
+	  "merge.currentHeaderBackground": "#A4E3D650",
+	  "merge.currentContentBackground": "#DBF4EF50",
+	  "merge.incomingHeaderBackground": "#A6CFFF50",
+	  "merge.incomingContentBackground": "#DBECFF50",
+	  "merge.commonHeaderBackground": "#BFBFBF50",
+	  "merge.commonContentBackground": "#E5E5E550",
 	  "editorSuggestWidget.background": "#f4d39a",
 	  "editorSuggestWidget.border": "#4f4239",
 	  "editorSuggestWidget.foreground": "#4f4239",
