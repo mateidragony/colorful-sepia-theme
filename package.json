@@ -1,7 +1,9 @@
 {
   "name": "colorful-sepia-theme",
-  "displayName": "colorful-sepia-theme",
+  "displayName": "Colorful Sepia Theme",
   "description": "A colorful sepia theme for VSCode",
+  "publisher": "mateidragony",
+  "icon": "./icon.png",
   "version": "0.0.1",
   "repository": {
     "type": "git",
