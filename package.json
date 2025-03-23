@@ -3,6 +3,10 @@
   "displayName": "colorful-sepia-theme",
   "description": "A colorful sepia theme for VSCode",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mateidragony/colorful-sepia-theme"
+  },
   "engines": {
     "vscode": "^1.98.0"
   },
