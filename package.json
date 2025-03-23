@@ -1,0 +1,21 @@
+{
+  "name": "colorful-sepia-theme",
+  "displayName": "colorful-sepia-theme",
+  "description": "A colorful sepia theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Colorful Sepia Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Colorful Sepia Theme-color-theme.json"
+      }
+    ]
+  }
+}
