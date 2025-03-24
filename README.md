@@ -17,7 +17,7 @@ A high saturation, colorful sepia theme for VSCode.
 ## Tweaks & theming
 If you want to play around with new colors, use the setting workbench.colorCustomizations to customize the currently selected theme. For example, you can add this snippet in your "settings.json" file:
 
-```js
+```json
 "workbench.colorCustomizations": {
     "tab.activeBackground": "#282c34",
     "activityBar.background": "#282c34",
@@ -27,7 +27,7 @@ If you want to play around with new colors, use the setting workbench.colorCusto
 
 or use the setting editor.tokenColorCustomizations
 
-```js
+```json
    "editor.tokenColorCustomizations": {
     "[Theme]": {
       "textMateRules": [
@@ -47,7 +47,7 @@ or use the setting editor.tokenColorCustomizations
 ### Italic
 You could set this in your setting.json to make code be italic
 
-```js
+```json
     "editor.tokenColorCustomizations": {
       "textMateRules": [
         {
